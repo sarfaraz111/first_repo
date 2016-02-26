@@ -1,5 +1,5 @@
 # first_repostry 
 ### heading
-  *fjkasjfkalj
-  *jkljsklgjskl
-  *jkgljgkjs
+  * fjkasjfkalj
+  * jkljsklgjskl
+  * jkgljgkjs
