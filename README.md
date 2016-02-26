@@ -1,11 +1,11 @@
 # first_repostry 
 ### heading
-* jkjgkflgjdl
-* ksdl;fksdl;kf
-* jkljgkl;fsld
-* sdl;kfsl;d
+* jkjgkflgjdl.
+* ksdlfksdlkf.
+* jkljgklfsld.
+* sdlkfsld.
 
-1. kjfkdlsjfsd
-2. gjskldjs
-3. sdjsfgkl;jf
-4. gfsdjkgl;s
+1. kjfkdlsjfsd.
+2. gjskldjs.
+3. sdjsfgkljf.
+4. gfsdjkgls.
